@@ -24,3 +24,8 @@ To edit this repository in MakeCode.
 
 * for PXT/arcade
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+
+#### when you run this program
+
+the red spheres are the lights , the red dots thwre the rays hit walls. , and the standard map , theres 2 maps.
