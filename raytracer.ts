@@ -1,0 +1,1 @@
+const rt = new RayTracer()
